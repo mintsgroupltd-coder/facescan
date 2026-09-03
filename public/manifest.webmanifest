@@ -1,0 +1,20 @@
+{
+  "name": "FaceVital AI - Face Scan Vital Signs & Metabolic Health",
+  "short_name": "FaceVital",
+  "description": "Contactless optical rPPG facial scan for heart rate, blood pressure, blood sugar, and cardiometabolic health tracking.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "categories": ["medical", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

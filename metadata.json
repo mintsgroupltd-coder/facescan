@@ -1,0 +1,6 @@
+{
+  "name": "FaceVital AI - Face Scan Vital Signs & Metabolic Health",
+  "description": "Contactless rPPG facial scan for clinical vital signs, blood pressure hemodynamics, blood sugar estimation, cardiac workload, extended HRV spectra, optical BMI adiposity, breathing rate, hypertension monitoring, and 10-year cardiometabolic risk forecasting with interactive lifestyle simulation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
